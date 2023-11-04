@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
+
+
+// Size of all Variable
  cout << "Size of char : " << sizeof(char) << endl;
  cout << "Size of int : " << sizeof(int) << endl;
  cout << "Size of short int : " << sizeof(short int) << endl;

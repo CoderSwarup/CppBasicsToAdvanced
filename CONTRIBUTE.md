@@ -9,7 +9,7 @@ Contributions to this repository are highly encouraged and greatly appreciated. 
 2. Clone your forked repository to your local machine.
 
    ```sh
-   git clone https://github.com/your-username/CPP-Repository.git
+   git clone https://github.com/CoderSwarup/CppBasicsToAdvanced.git
 
    ```
 
